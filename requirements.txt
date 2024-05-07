@@ -7,3 +7,4 @@ langchain-openai==0.1.6
 langchain-community==0.0.37
 sentence-transformers==2.7.0
 openai==1.26.0
+google-auth==2.29.0
